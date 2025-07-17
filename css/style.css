@@ -118,6 +118,11 @@ a {
   bottom: 200px;
   left: 0;
 }
+@media (max-width: 767px) {
+  .dots {
+    display: none;
+  }
+}
 /* end global rules */
 /* start header */
 header {
