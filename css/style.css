@@ -1326,6 +1326,7 @@ header .mega-menu .links li a i {
   flex-basis: 50%;
   justify-content: center;
   align-items: center;
+  padding-bottom: 50px;
 }
 @media (max-width: 991px) {
   .discount .form {
